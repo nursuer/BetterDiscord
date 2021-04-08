@@ -1,8 +1,9 @@
 :root {
-  --accent-color: #1db954;
-  --accent-hover: #1ed760;
-  --accent-rgb: 29,185,84;
-  --accent-text-color: #fff;
+--accent-color: #FF1493 !important;
+--accent-hover: #FFB6C1 !important;
+--accent-rgb: 255,105,180 !important;
+--accent-text-color: #fff !important;
+}
   --alt-accent: #5680d4;
   --alert-color: #f04747;
   --alert-hover: #ff4c4c;
